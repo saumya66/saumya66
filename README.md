@@ -7,9 +7,8 @@ About Me:
 
 - 🔭 I’m currently working on this page. 
 
-<img alt="Night Coding" src="https://github.com/saumya66/saumya66/blob/main/assets/giphy.gif" align="right"/>
-<br>
-<br>
+<img alt="Night Coding" src="https://github.com/saumya66/saumya66/blob/main/assets/giphy.gif" align="right"/>  
+ <br/>
 
 ### 👨‍💻 &nbsp;Working With
 
