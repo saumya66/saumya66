@@ -21,9 +21,6 @@ About Me:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-![GitHub metrics](https://metrics.lecoq.io/saumya66) 
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -32,6 +29,8 @@ About Me:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saumya66&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
 </p>
+
+![GitHub metrics](https://metrics.lecoq.io/saumya66) 
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
