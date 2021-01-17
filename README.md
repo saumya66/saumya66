@@ -1,11 +1,9 @@
 
-### Hi there 👋, I'm Saumya Ranjan Nayak
 ####  
 ![ ](https://media-exp1.licdn.com/dms/image/C4D16AQFzlW6lLK2Gkg/profile-displaybackgroundimage-shrink_200_800/0/1610832327555?e=1616630400&v=beta&t=nTg3w9T4XT5RSuZ9en4Rf8pGAPEDxNZ2ZjUBUMV45-I)
+### Hi there 👋, I'm Saumya Ranjan Nayak
 
- 
-
-Skills:  
+About Me:  
 
 - 🔭 I’m currently working on this page. 
 
@@ -15,11 +13,14 @@ Skills:
 ![GitHub metrics](https://metrics.lecoq.io/saumya66) 
 
 
+### ⚙️ &nbsp;GitHub Analytics
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saumya66&show_icons=true)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumya66)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/saumya66">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saumya66&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saumya66&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
