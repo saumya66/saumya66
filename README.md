@@ -7,7 +7,7 @@ About Me:
 
 - 🔭 I’m currently working on this page. 
 
-<img alt="Night Coding" src="https://github.com/saumya66/saumya66/blob/main/assets/giphy.gif" align="right"/>  
+<img alt="Night Coding" src="https://github.com/saumya66/saumya66/blob/main/assets/giphy.gif" align="right"/>&nbsp;&nbsp;
  <br/>
 
 ### 👨‍💻 &nbsp;Working With
@@ -22,6 +22,7 @@ About Me:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
  
+&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
