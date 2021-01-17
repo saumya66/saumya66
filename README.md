@@ -1,13 +1,24 @@
 
 ####  
-![ ](https://media-exp1.licdn.com/dms/image/C4D16AQFzlW6lLK2Gkg/profile-displaybackgroundimage-shrink_200_800/0/1610832327555?e=1616630400&v=beta&t=nTg3w9T4XT5RSuZ9en4Rf8pGAPEDxNZ2ZjUBUMV45-I)
+![ ](https://github.com/saumya66/saumya66/blob/main/assets/banner.jpg)
 ### Hi there 👋, I'm Saumya Ranjan Nayak
 
 About Me:  
 
 - 🔭 I’m currently working on this page. 
 
+<img alt="Night Coding" src="https://github.com/saumya66/saumya66/blob/main/assets/giphy.gif" align="right"/>
 
+### 👨‍💻 &nbsp;Working With
+
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 ![GitHub metrics](https://metrics.lecoq.io/saumya66) 
