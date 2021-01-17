@@ -8,6 +8,8 @@ About Me:
 - 🔭 I’m currently working on this page. 
 
 <img alt="Night Coding" src="https://github.com/saumya66/saumya66/blob/main/assets/giphy.gif" align="right"/>
+<br>
+<br>
 
 ### 👨‍💻 &nbsp;Working With
 
@@ -20,8 +22,7 @@ About Me:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-\
-\
+ 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
