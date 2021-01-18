@@ -10,12 +10,14 @@ About Me:
 <img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/giphy.gif" align="right"/>&nbsp;&nbsp;
  <br/>
 
-### 👨‍💻 &nbsp;Talking with Comuters Using 
+## 👨‍💻 &nbsp;Talking with Comuters Using :
 
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/cpp.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/python.png' width='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/html.png' width='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/md.png' width='40'/>&nbsp;
+### &nbsp;- Languages
+
+<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/cpp.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/python.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/html.png' width='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/md.png' width='40'/>&nbsp;
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/dart.png' height='40'/>&nbsp;
 
-## &nbsp;Frameworks 
+### &nbsp;- Frameworks 
 
 
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/numpy.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/matplotlib-.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/scikit.png' width='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/pandas.jpg' width='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/flutter.png' width='40'/>&nbsp;
