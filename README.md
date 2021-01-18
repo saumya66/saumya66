@@ -1,7 +1,7 @@
 
 ####  
 ![ ](https://github.com/saumya66/saumya66/blob/main/assets/banner.jpg)
-### Hi there 👋, I'm Saumya Ranjan Nayak
+## Hi there 👋, I'm Saumya Ranjan Nayak
 
 About Me:  
 
