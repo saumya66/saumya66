@@ -10,7 +10,7 @@ About Me:
 <img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/giphy.gif" align="right"/>&nbsp;&nbsp;
  <br/>
 
-## 👨‍💻 &nbsp;Talking with Comuters Using :
+## 👨‍💻 &nbsp;Talking to Computers Using :
 
 ### &nbsp;- Languages
 
