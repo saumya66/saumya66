@@ -14,13 +14,13 @@ About Me:
 
 ### &nbsp;- Languages
 
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/cpp.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/python.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/html.png' width='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/md.png' width='40'/>&nbsp;
+<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/cpp.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/python.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/js.png' height='40'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/html.png' width='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/md.png' width='40'/>&nbsp;
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/dart.png' height='30'/>&nbsp;
 
 ### &nbsp;- Frameworks 
 
 
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/numpy.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/matplotlib-.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/scikit.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/pandas.jpg' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/flutter.png' height='40'/>&nbsp;
+<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/react.png' height='40'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/express.png' height='40'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/mongo.png' height='40'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/node.png' height='40'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/numpy.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/matplotlib-.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/scikit.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/pandas.jpg' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/flutter.png' height='40'/>&nbsp;
  
 &nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
