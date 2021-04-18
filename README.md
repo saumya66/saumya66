@@ -3,7 +3,7 @@
 ![ ](https://github.com/saumya66/saumya66/blob/main/assets/gitbanner.jpg)
 # Hi there 👋, I'm Saumya 
 
-##### About Me:  
+#### About Me:  
 
 - 👨‍🎓 Sophomore |🙋‍♂️ Self Taught Programmer
 - 👨‍💻Full Stack Engineer.
