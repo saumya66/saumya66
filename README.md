@@ -3,9 +3,14 @@
 ![ ](https://github.com/saumya66/saumya66/blob/main/assets/gitbanner.jpg)
 # Hi there 👋, I'm Saumya 
 
-About Me:  
+##### About Me:  
 
-- 🔭 I’m currently working on this page. 
+- 👨‍🎓 Sophomore |🙋‍♂️ Self Taught Programmer
+- 👨‍💻Full Stack Engineer.
+- 🧠Machine & Deep Learning.
+- ❣🎬Youtube Creator.
+- ✒Tech Blogger. 
+- 📚Love to Geek out on Space, Tech & Future
 
 <img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;&nbsp;
  <br/>
