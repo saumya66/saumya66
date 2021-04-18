@@ -7,7 +7,7 @@ About Me:
 
 - 🔭 I’m currently working on this page. 
 
-<img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/gif.gif" align="right"/>&nbsp;&nbsp;
+<img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/gif.gif" height="20" align="right"/>&nbsp;&nbsp;
  <br/>
 
 ## 👨‍💻 &nbsp;Talking to Computers Using :
