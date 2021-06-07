@@ -7,10 +7,10 @@
 
 - 👨‍🎓 Sophomore |🙋‍♂️ Self Taught Programmer
 - 👨‍💻Full Stack Engineer.
-- 🧠Machine & Deep Learning.
 - ❣🎬Youtube Creator.
 - ✒Tech Blogger. 
-- 📚Love to Geek out on Space, Tech & Future
+- 🧠Machine & Deep Learning.
+- 📚Love to Geek out on Space, Tech & Future & Life.
 
 <img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;&nbsp;
  <br/>
