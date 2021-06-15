@@ -31,11 +31,14 @@
  
 &nbsp;
 
+[![Activity graph](https://activity-graph.herokuapp.com/graph?username=saumya66&theme=chartreuse-dark)](https://git.io/kaiwalyakoparkar)
+
 ## &nbsp;Let's Connect <img src="https://github.com/saumya66/saumya66/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
 [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/iconfinder_social_media_isometric_2-youtube_3529652.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCx-HdHfKu1rXgNIfNaKMsAA) &nbsp;[<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/saumya-ranjan-nayak-30ba7a187/)&nbsp;  [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/saumya4real)&nbsp;  [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13484967)&nbsp; [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/iconfinder_social_media_isometric_20-reddit_3529678.png' alt='Reddit' height='40'>](https://www.reddit.com/user/fitvibesyt)&nbsp;
 [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/saumya66)&nbsp;  [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/dev.png' alt='dev' height='40'>](https://dev.to/saumya66)&nbsp;  [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/hashnode.png' alt='hashnode' height='40'>](https://saumya.hashnode.dev/)&nbsp;   [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/iconfinder_web_2916300.png' alt='website' height='40'>](https://saumyanayak.tech/)  &nbsp;
 [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/iconfinder_quora_2308125.png' alt='quora' height='40'>](https://www.quora.com/profile/Saumya-Ranjan-Nayak-14) 
+
 
 
 
