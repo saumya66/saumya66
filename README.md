@@ -46,7 +46,7 @@
 <p align="center">
 <a href="https://github.com/saumya66">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saumya66&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saumya66&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+ 
 </a>
 </p>
 
