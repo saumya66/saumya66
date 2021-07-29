@@ -5,11 +5,11 @@
 
 #### About Me:  
 
-- 👨‍🎓 Sophomore |🙋‍♂️ Self Taught Programmer
+- 👨‍🎓 Junior |🙋‍♂️ Self Taught 
 - 👨‍💻Full Stack Engineer.
-- ❣🎬Youtube Creator.
+- 📌React | React Native | Algorthms 
+- 🎬Youtube Creator.
 - ✒Tech Blogger. 
-- 🧠Machine & Deep Learning.
 - 📚Love to Geek out on Space, Tech & Future & Life.
 
 <img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;&nbsp;
@@ -19,13 +19,13 @@
 
 ### &nbsp;- Languages
 
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/cpp.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/ts.png' height='50'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/js.png' height='40'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/html.png' width='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/md.png' width='40'/>&nbsp;
+<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/js.png' height='40'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/ts.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/html.png' width='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/md.png' width='40'/>&nbsp;
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/dart.png' height='30'/>&nbsp;
 
 ### &nbsp;- Libraries, Frameworks, Tools  
 
 
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/reactl.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/express.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/mongodb.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/node-js.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/bs.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/aws.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/css.png' height='50'/>&nbsp;
+<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/reactl.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/express.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/mongodb.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/node-js.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/firebase.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/bs.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/aws.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/css.png' height='50'/>&nbsp;
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/numpy.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/matplotlb-.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/scikit.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/pandas.jpg' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/flutter.png' height='40'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
  
