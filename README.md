@@ -1,6 +1,6 @@
 
 ####  
-![ ](https://github.com/saumya66/saumya66/blob/main/assets/gitbanner.png)
+![ ](https://github.com/saumya66/saumya66/blob/main/assets/1500x500.jfif)
 # Hi there 👋, I'm Saumya 
 
 #### About Me:  
