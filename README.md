@@ -30,7 +30,6 @@
  
 &nbsp;
 
-[![Activity graph](https://activity-graph.herokuapp.com/graph?username=saumya66&theme=chartreuse-dark)](https://git.io/kaiwalyakoparkar)
 
 ## &nbsp;Let's Connect <img src="https://github.com/saumya66/saumya66/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
