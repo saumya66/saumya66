@@ -5,12 +5,12 @@
 
 #### About Me:  
 
-- 👨‍🎓Junior |🙋‍♂️ Self Taught 
-- 👨‍💻Full Stack Engineer.
-- 📌React💻| React Native 📱| Algorithms ✔ 
-- 🎬Youtube Creator.
-- ✍Tech Blogger. 
-- 📚Love to Geek out on Space, Tech, Startups, Future & Life.
+- 👨‍🎓Junior | 🙋‍♂️ Self Taught 
+- 💻 I Learn & Build Stuff while documenting & sharing my Journey.
+- 📌React | React Native 📱| Algorithms ✔ 
+- 🎬Youtube Creator. 
+- 📚Love to Geek out on Space, Tech, Code, Startups, Future & Life.
+- ✍Learning to write a lot.
 
 <img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;&nbsp;
  <br/>
