@@ -5,9 +5,9 @@
 
 #### About Me:  
 
-- 👨‍🎓Junior | 🙋‍♂️ Self Taught 
+- 👨‍🎓Undergrad | 🙋‍♂️ Self Taught 
 - 💻 I Learn & Build Stuff while documenting & sharing my Journey.
-- 📌Full Stack Engineer (React Heavy) | React Native 📱| Algorithms ✔ 
+- 📌Full Stack Engineer (Javascript Heavy)
 - 🎬Youtube Creator. 
 - 📚Love to Geek out on Space, Tech, Code, Startups, Future & Life.
 - ✍Learning to write a lot.
