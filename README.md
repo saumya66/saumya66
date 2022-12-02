@@ -38,13 +38,6 @@
 [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/saumya66)&nbsp;   [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/hashnode.png' alt='hashnode' height='40'>](https://saumya.hashnode.dev/)&nbsp; 
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/saumya66">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saumya66&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
- 
-</a>
 </p>
 
 <p align="center">
