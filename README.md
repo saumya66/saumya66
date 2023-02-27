@@ -15,20 +15,6 @@
 <img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;&nbsp;
  <br/>
 
-## 👨‍💻 &nbsp;Talking to Computers Using :
-
-### &nbsp;- Languages
-
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/js.png' height='40'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/ts.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/html.png' width='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/md.png' width='40'/>&nbsp;
-
-### &nbsp;- Libraries, Frameworks, Tools  
-
-
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/reactl.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/redux.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/reactnative.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/nextjs.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/express.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/mongodb.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/node-js.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/firebase.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/bs.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/aws.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/css.png' height='50'/>&nbsp;
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
- 
-&nbsp;
-
 
 ## 👋 Let's Connect : 
 
