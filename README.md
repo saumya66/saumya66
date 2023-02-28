@@ -5,12 +5,12 @@
 
 #### About Me:  
 
-- 👨‍🎓Undergrad | 🙋‍♂️ Self Taught 
-- 💻I Learn & Build Stuff while documenting & sharing my Journey.
-- 📌Full Stack Engineer (Javascript Heavy)
+- 👨‍🎓Undergrad | 🙋‍♂️ Self taught 
+- 💻I learn & build stuff while documenting & sharing my Journey.
+- 📲Full Stack Engineer (Javascript Heavy)
 - 🎬Youtube Creator. 
 - 📚Love to Geek out on Code, Startups, AI, Web, Future & Life.
-- ✍Learning to write a lot.
+- ✍Learning to write more.
 
 <!-- <img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;&nbsp;
  <br/> -->
