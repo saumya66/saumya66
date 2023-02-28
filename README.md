@@ -6,17 +6,17 @@
 #### About Me:  
 
 - 👨‍🎓Undergrad | 🙋‍♂️ Self Taught 
-- 💻 I Learn & Build Stuff while documenting & sharing my Journey.
+- 💻I Learn & Build Stuff while documenting & sharing my Journey.
 - 📌Full Stack Engineer (Javascript Heavy)
 - 🎬Youtube Creator. 
-- 📚Love to Geek out on Space, Tech, Code, Startups, Future & Life.
+- 📚Love to Geek out on Code, Startups, AI, Web, Future & Life.
 - ✍Learning to write a lot.
 
-<img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;&nbsp;
- <br/>
+<!-- <img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;&nbsp;
+ <br/> -->
 
 
-## 👋 Let's Connect : 
+<!-- ## 👋 Let's Connect : 
 
 [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/iconfinder_social_media_isometric_2-youtube_3529652.png' alt='YouTube' height='40'>](https://www.youtube.com/c/SaumyaNayak) &nbsp;
   [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/iconfinder_web_2916300.png' alt='website' height='40'>](https://www.saumyanayak.xyz/)  &nbsp;
@@ -24,7 +24,7 @@
 [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/saumya66)&nbsp;   [<img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/hashnode.png' alt='hashnode' height='40'>](https://saumya.hashnode.dev/)&nbsp; 
 
 
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
