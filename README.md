@@ -8,7 +8,7 @@
 - 👨‍🎓Undergrad | 🙋‍♂️ Self taught 
 - 💻I learn & build stuff while documenting & sharing my Journey.
 - 📲Full Stack Engineer (Javascript Heavy)
-- 🎬Youtube Creator. 
+- 🎬Documenting on Youtube. 
 - 📚Love to Geek out on Code, Startups, AI, Web, Future & Life.
 - ✍Learning to write more.
 
