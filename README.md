@@ -5,11 +5,11 @@
 
 #### About Me:  
 
-- 👨‍🎓Undergrad | 🙋‍♂️ Self taught 
+- 👨🏻‍💻Handling tech at [leap.club](https://leap.club/)
 - 💻I learn & build stuff while documenting & sharing my Journey.
 - 📲Full Stack Engineer (Javascript Heavy)
 - 🎬Documenting on Youtube. 
-- 📚Love to Geek out on Code, Startups, AI, Web, Future & Life.
+- 📚Love to talk on Code, Startups, AI, Web, Future & Life.
 - ✍Learning to write more.
 
 <!-- <img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;&nbsp;
