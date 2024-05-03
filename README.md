@@ -7,7 +7,7 @@
 
 - 👨🏻‍💻Handling tech at [leap.club](https://leap.club/)
 - 💻I learn & build stuff while documenting & sharing my Journey.
-- 📲Full Stack Engineer (Javascript Heavy)
+- 📲Full Stack Engineer (JS/Frontend Heavy)
 - 🎬Documenting on Youtube. 
 - 📚Love to talk on Code, Startups, AI, Web, Future & Life.
 - ✍Learning to write more.
