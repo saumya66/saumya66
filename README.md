@@ -3,15 +3,6 @@
 ![ ](https://github.com/saumya66/saumya66/blob/main/assets/1500x500.jfif)
 # Hi there 👋, I'm Saumya 
 
-#### About Me:  
-
-- 👨🏻‍💻Handling tech at [leap.club](https://leap.club/)
-- 💻I learn & build stuff while documenting & sharing my Journey.
-- 📲Full Stack Engineer (JS/Frontend Heavy)
-- 🎬Documenting on Youtube. 
-- 📚Love to talk on Code, Startups, AI, Web, Future & Life.
-- ✍Learning to write more.
-
 <!-- <img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;&nbsp;
  <br/> -->
 
